@@ -32,4 +32,10 @@ func main() {
 	for position, value := range sampleArr {
 		fmt.Printf("%d -> %s\n", position, value)
 	}
+
+	// Loops on Maps
+	sampleMap := map[string]string{"AUD": "Australia", "INR": "Indian"}
+	for key, value := range sampleMap {
+		fmt.Printf("%s -> %s\n", key, value)
+	}
 }
