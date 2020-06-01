@@ -1,6 +1,6 @@
 # Go
 
-This page is my reference to Go programming language 
+This page is my reference to Go programming language. Based on [Traversy Media's video](https://www.youtube.com/watch?v=SqrbIlUwR0U)
 
 ### Installation:
 
